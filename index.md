@@ -1,11 +1,3 @@
-<nav>
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/cv">CV</a></li>
-    <li><a href="/blog">Blog</a></li>
-   </ul>
-</nav>
-
 # About Me
 
 <img src="FanBu_GraduationCeremony_2.jpg" alt="my graduation pic" width="307" height="365">
