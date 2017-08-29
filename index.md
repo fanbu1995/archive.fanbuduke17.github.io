@@ -1,10 +1,20 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/fanbuduke17/fanbuduke17.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Graduation Pic Of Me](https://fanbuduke17.github.io/FanBu_GraduationCeremony_2.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I recently received my Bachelor's degree in Data Science and Big Data Technology from Peking University, China.
 
-### Markdown
+I am now a Ph.D. student in Statistics at Duke University, under the supervision of my advisor [Katherine Heller](http://www2.stat.duke.edu/~kheller/). My research interests are:
+
+- Non-parametric Bayesian Statistics
+- Machine Learning
+- Network Analysis
+- Stochastic Modelling
+- Sports Data Analytics
+
+Email me at ``fan.bu1@duke.edu``.
+
+# Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
