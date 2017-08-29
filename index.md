@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/fanbuduke17/fanbuduke17.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="FanBu_GraduationCeremony_2.jpg" alt="my graduation pic" width="307" height="365">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I recently received my Bachelor's degree in Data Science and Big Data Technology from Peking University, China.
 
-### Markdown
+I am now a Ph.D. student in Statistics at Duke University, under the supervision of my advisor [Katherine Heller](http://www2.stat.duke.edu/~kheller/). My research interests are:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Non-parametric Bayesian Statistics
+- Machine Learning
+- Network Analysis
+- Stochastic Modelling
+- Sports Data Analytics
 
-```markdown
-Syntax highlighted code block
+Email me at ``fan.bu1@duke.edu``.
 
-# Header 1
-## Header 2
-### Header 3
+[Access my CV Here](https://fanbuduke17.github.io/CV_FanBu_201708.pdf)
 
-- Bulleted
-- List
+# Research Projects: Ongoing and Completed
 
-1. Numbered
-2. List
+### "Root Probability" identification using Multivariate Hawkes Processes with texual marks
 
-**Bold** and _Italic_ and `Code` text
+- Ongoing project with [Wei Zhang](http://pages.cs.wisc.edu/~zhangwei/) and [Derek Owens-Oas](https://stat.duke.edu/people/derek-owens-oas), supervised by Prof [Jerry Zhu](http://pages.cs.wisc.edu/~jerryzhu/) and Prof Katherine Heller.
+- With applications in social media networks, eg. [Reddit](https://www.reddit.com/) forum data.
 
-[Link](url) and ![Image](src)
-```
+### Traffic Speed Nowcasting Based on Urban Road Network and Artificial Neural Network
+- Graduation project for my B.S. in Peking University.
+- A deep learning project involving Graph CNN, LSTM network, and real-time traffic speed data obtained from taxi GPS record.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Detection of Differential Genetic Networks
+- Undergraduate research project funded by Chinese National Inovative Initiative.
+- Won the second prize of the Peking University Research Challenge Cup.
 
-### Jekyll Themes
+# Skills and Hobbies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanbuduke17/fanbuduke17.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I speak Mandarin and English fluently, and I also know a tiny bit of French.
 
-### Support or Contact
+I know how to program in Python, R and Matlab. I use Julia and LaTex as well.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I play the piano and drums. There used to be a time when I could play the French Horn.
+
+I jog, swim, yoga, play badminton, squash, and tennis.
+
+I read.
+
+# My Blog
+
+**I love writing.** I have a blog [here](http://fanny-hi.lofter.com/), where I post movie reviews, tennis reviews and babblings. Note that it's in **Chinese**.
