@@ -45,4 +45,6 @@ I read.
 
 # My Blog
 
-**I love writing.** I have a blog [here](http://fanny-hi.lofter.com/), where I post movie reviews, tennis reviews and babblings. Note that it's in **Chinese**.
+**I love writing.** 
+
+I have a blog [here](http://fanny-hi.lofter.com/), where I post movie reviews, tennis reviews and babblings. Note that it's in **Chinese**.
