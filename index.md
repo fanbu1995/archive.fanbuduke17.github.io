@@ -1,6 +1,7 @@
 # About Me
 
-![Graduation Pic Of Me](https://fanbuduke17.github.io/FanBu_GraduationCeremony_2.jpg){:height="307px" width="365px"}
+##![Graduation Pic Of Me](https://fanbuduke17.github.io/FanBu_GraduationCeremony_2.jpg){:height="307px" width="365px"}
+<img src="FanBu_GraduationCeremony_2.jpg" alt="my graduation pic" width="307" height="365">
 
 I recently received my Bachelor's degree in Data Science and Big Data Technology from Peking University, China.
 
