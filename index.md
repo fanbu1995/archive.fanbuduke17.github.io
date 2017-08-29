@@ -1,6 +1,5 @@
 # About Me
 
-##![Graduation Pic Of Me](https://fanbuduke17.github.io/FanBu_GraduationCeremony_2.jpg){:height="307px" width="365px"}
 <img src="FanBu_GraduationCeremony_2.jpg" alt="my graduation pic" width="307" height="365">
 
 I recently received my Bachelor's degree in Data Science and Big Data Technology from Peking University, China.
@@ -15,34 +14,35 @@ I am now a Ph.D. student in Statistics at Duke University, under the supervision
 
 Email me at ``fan.bu1@duke.edu``.
 
-# Markdown
+[Access my CV Here](https://fanbuduke17.github.io/CV_FanBu_201708.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Research Projects: Ongoing and Completed
 
-```markdown
-Syntax highlighted code block
+### "Root Probability" identification using Multivariate Hawkes Processes with texual marks
 
-# Header 1
-## Header 2
-### Header 3
+- Ongoing project with [Wei Zhang](http://pages.cs.wisc.edu/~zhangwei/) and [Derek Owens-Oas](https://stat.duke.edu/people/derek-owens-oas), supervised by Prof [Jerry Zhu](http://pages.cs.wisc.edu/~jerryzhu/) and Prof Katherine Heller.
+- With applications in social media networks, eg. [Reddit](https://www.reddit.com/) forum data.
 
-- Bulleted
-- List
+### Traffic Speed Nowcasting Based on Urban Road Network and Artificial Neural Network
+- Graduation project for my B.S. in Peking University.
+- A deep learning project involving Graph CNN, LSTM network, and real-time traffic speed data obtained from taxi GPS record.
 
-1. Numbered
-2. List
+### Detection of Differential Genetic Networks
+- Undergraduate research project funded by Chinese National Inovative Initiative.
+- Won the second prize of the Peking University Research Challenge Cup.
 
-**Bold** and _Italic_ and `Code` text
+# Skills and Hobbies
 
-[Link](url) and ![Image](src)
-```
+I speak Mandarin and English fluently, and I also know a tiny bit of French.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I know how to program in Python, R and Matlab. I use Julia and LaTex as well.
 
-### Jekyll Themes
+I play the piano and drums. There used to be a time when I could play the French Horn.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanbuduke17/fanbuduke17.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I jog, swim, yoga, play badminton, squash, and tennis.
 
-### Support or Contact
+I read.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# My Blog
+
+**I love writing.** I have a blog [here](http://fanny-hi.lofter.com/), where I post movie reviews, tennis reviews and babblings. Note that it's in **Chinese**.
