@@ -20,11 +20,11 @@ Email me at ``fan.bu1@duke.edu``.
 
 ### "Root Probability" identification using Multivariate Hawkes Processes with texual marks
 
-- Ongoing project with [Wei Zhang](http://pages.cs.wisc.edu/~zhangwei/) and [Derek Owens-Oas](https://stat.duke.edu/people/derek-owens-oas), supervised by Prof [Jerry Zhu](http://pages.cs.wisc.edu/~jerryzhu/) and Prof Katherine Heller.
+- Ongoing project with [Wei Zhang](http://pages.cs.wisc.edu/~zhangwei/) and [Derek Owens-Oas](https://stat.duke.edu/people/derek-owens-oas), supervised by [Jerry Zhu](http://pages.cs.wisc.edu/~jerryzhu/) and [Katherine Heller](http://www2.stat.duke.edu/~kheller/).
 - With applications in social media networks, eg. [Reddit](https://www.reddit.com/) forum data.
 
 ### Traffic Speed Nowcasting Based on Urban Road Network and Artificial Neural Network
-- Graduation project for my B.S. in Peking University.
+- Graduation project for my B.S. in Peking University. [Chinese version](https://fanbuduke17.github.io/Graduation_Paper.pdf)
 - A deep learning project involving Graph CNN, LSTM network, and real-time traffic speed data obtained from taxi GPS record.
 
 ### Detection of Differential Genetic Networks
@@ -35,13 +35,13 @@ Email me at ``fan.bu1@duke.edu``.
 
 I speak Mandarin and English fluently, and I also know a tiny bit of French.
 
-I know how to program in Python, R and Matlab. I use Julia and LaTex as well.
+I program in Python, R and Matlab. I use Julia and LaTex as well.
 
-I play the piano and drums. There used to be a time when I could play the French Horn.
+I play the piano and the drums. There used to be a time when I could play the French Horn.
 
 I jog, swim, yoga, play badminton, squash, and tennis.
 
-I read.
+I read books in History, Sociology, Economics, and Philosophy.
 
 # My Blog
 
